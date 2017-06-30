@@ -3,10 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Bitrix CRM Show/Hide completed check item
-// @author       You
+// @author       Lesyuk Serg
 // @match        http://crm.rw-soft.com/*/tasks/task/view/*
-// @updateURL		https://raw.githubusercontent.com/LesyukSerg/bitrix24_showhide/master/showhide.js
-// @downloadURL		https://raw.githubusercontent.com/LesyukSerg/bitrix24_showhide/master/showhide.js
+// @updateURL    https://raw.githubusercontent.com/LesyukSerg/bitrix24_showhide/master/showhide.js
+// @downloadURL  https://raw.githubusercontent.com/LesyukSerg/bitrix24_showhide/master/showhide.js
 // @grant        none
 // ==/UserScript==
 
