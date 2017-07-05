@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bitrix CRM Show/Hide
 // @namespace    bitrix24
-// @version      0.1
+// @version      0.2
 // @description  Bitrix CRM Show/Hide completed check item
 // @author       Lesyuk Serg
 // @include      http://crm.rw-soft.com/*
